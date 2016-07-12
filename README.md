@@ -15,6 +15,16 @@ twinkles1_and_index
 
 Astrometry index catalogs corresponding to the twinkles1 data.
 
+cfht
+----
+
+Source catalogs and metadata from the validation_data_cfht repository. The calexps were processed via the included `compress_jointcal_cfht_test_data.py` to remove the pixel-level data and gzip compress them to make their size reasonable. I also made a skyMap and added it to deepCoadds.
+
+cfht_and_index
+--------------
+
+Astrometry index catalogs corresponding to the twinkles1 data.
+
 Git LFS
 -------
 
